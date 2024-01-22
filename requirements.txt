@@ -1,0 +1,9 @@
+django
+Flask
+django-crispy-forms
+crispy-bootstrap4
+django-bootstrap4
+adafruit-blinka
+adafruit-circuitpython-fingerprint
+adafruit-circuitpython-dht
+requests
